@@ -4,5 +4,8 @@
     <string name="app_name">SwitchingScreens</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="enter_your_name_text_view">Enter yout name</string>
+    <string name="enter_name_buton">Enter</string>
+    <string name="calling_activity_message">The calling activity was</string>
 
 </resources>

@@ -44,7 +44,8 @@ public class MainActivity extends ActionBarActivity {
 
     public void onGetNameClick(View view) {
 
-        Intent getNameScreenIntent = new Intent(this,
+        Intent getNameScreenIntent =
+                new Intent(this,
                 SecondScreen.class);
 
         final int result = 1;

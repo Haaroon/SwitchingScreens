@@ -19,7 +19,7 @@ public class SecondScreen extends Activity {
 
         Intent activityThatCalled = getIntent();
 
-        String previousActivity = activityThatCalled.getExtras().getString("callingActivit");
+        String previousActivity = activityThatCalled.getExtras().getString("callingActivity");
 
         TextView callingActivityMessage = (TextView)
                 findViewById(R.id.calling_activity_info_text_view);
